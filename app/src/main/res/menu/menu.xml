@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/db_example"
+        android:title="@string/database_example" />
+    <item
+       android:id="@+id/external_storage_example"
+        android:title="@string/external_storage" />
+    <item
+        android:id="@+id/media_player_example"
+        android:title="@string/media_player" />
+    <item
+        android:id="@+id/media_record_example"
+        android:title="@string/media_record" />
+    <item
+        android:id="@+id/video_example"
+        android:title="Video View" />
+
+
+</menu>
